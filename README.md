@@ -1,6 +1,6 @@
 # Undergraduate Project 2021-2025
 
-This repository contains my undergraduate project work.
+This repository contains my main undergraduate project work.
 
 ## Project Portfolio
 
