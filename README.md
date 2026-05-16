@@ -1,8 +1,8 @@
-# Undergraduate Project 2021-2024
+# Undergraduate Project 2021-2025
 
-This repository contains my undergraduate project work for the 2021-2024 academic year.
+This repository contains my undergraduate project work.
 
-## Project File
+## Project Portfolio
 
 - [Undergraduate-Project-2023-2024.pdf](Undergraduate-Project-2023-2024.pdf)
 
