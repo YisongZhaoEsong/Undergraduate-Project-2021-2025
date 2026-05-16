@@ -6,7 +6,7 @@ This repository contains my undergraduate project work for the 2021-2024 academi
 
 - [Undergraduate-Project-2023-2024.pdf](Undergraduate-Project-2023-2024.pdf)
 
-## Project Video Links
+## Project Content
 
 1. **Overthinking**  
    *Interactive Installation · Programming Art*  
