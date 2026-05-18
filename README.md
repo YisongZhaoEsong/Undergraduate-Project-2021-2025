@@ -4,6 +4,8 @@ This repository contains my main undergraduate project work.
 
 ## Project Portfolio
 
+All five projects are included in the PDF portfolio.
+
 - [Undergraduate-Project-2021-2025.pdf](Undergraduate-Project-2021-2025.pdf)
 
 ## Project Content
